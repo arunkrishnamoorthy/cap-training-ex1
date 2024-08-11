@@ -1,0 +1,3 @@
+ID,parent_ID,material,qty,createdAt,createdBy,modifiedAt,modifiedBy
+28808739-e6fc-4b18-bbb6-b3fade878478,11687134-8c81-467c-bb64-619894d89741,material-28808739,72.7613514,2017-08-25T00:00:00.000Z,createdBy.h5gyr@example.com,2000-12-15T00:00:00.000Z,modifiedBy.h5gyr@example.com
+28808740-5d6b-41d1-b604-ebd17af45d18,11687134-8c81-467c-bb64-619894d89741,material-28808740,56.28979923,2019-09-16T00:00:00.000Z,createdBy.h5gys@example.com,2020-02-13T00:00:00.000Z,modifiedBy.h5gys@example.org
